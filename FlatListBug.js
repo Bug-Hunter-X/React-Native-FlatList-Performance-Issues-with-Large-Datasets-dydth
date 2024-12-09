@@ -1,0 +1,1 @@
+This error occurs when using the `FlatList` component in React Native and attempting to render a large number of items.  The symptom is that the list renders slowly or becomes unresponsive, and the app might crash or freeze.  It is often exacerbated when each item in the list is complex or requires extensive rendering.
